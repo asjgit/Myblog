@@ -5,12 +5,13 @@ permalink: /about/
 img: bheema-2.PNG
 ---
 
-In the Hindu epic Mahabharata, Bheema, is the second of the Pandavas. The Mahabharata relates many events which portray the immense might of Bheema. Bhima is responsible for slaying all hundred Kaurava brothers in the Kurukshetra War.
+宋 璐
+	
+放荡不羁的爱上了一个人，从宿迁到成都，再到上海，从未停过追随的脚步；
+	
+让爱不再遥远，让爱触手可及。
 
-At the time Bhima kills the rakshasa(evil) Hidimba, he meets his sister Hidimbi; they eventually get married and have a son, [Ghatotkacha](http://webjeda.com/gatok/about/). 
+现在一家初创公司工作，[G7](http://G7.com.cn/)，负责金融风险管控。
 
 
-<iframe class="video" src="https://www.youtube.com/embed/6qqIy97WbGA" frameborder="0" allowfullscreen></iframe>
-
-
-Find more themes: [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
+<iframe class="video" height="498" width="510" src="http://player.youku.com/embed/XMTY1MjcxNDYyOA==" frameborder="0" allowfullscreen></iframe>
